@@ -1,16 +1,22 @@
-# complex_listview
+# beautiful_list
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
 
-A few resources to get you started if this is your first Flutter project:
+## setting up
+View tutorial online
+[Medium](https://medium.com/@afegbua/this-is-the-second-part-of-the-beautiful-list-ui-and-detail-page-article-ecb43e203915).
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+```dart
+
+cd beautiful-list
+flutter packages get
+open -a simulator
+flutter run
+
+```
